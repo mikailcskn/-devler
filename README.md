@@ -1,2 +1,0 @@
-# Odevler
-Ödevlerim
